@@ -1,0 +1,9 @@
+
+.about-content{
+    padding: 50px 0;//da ne bude ogromno na mobilnom
+}
+@media(min-width:992px){
+    .about-content{
+        padding: 104px 0;//od velikih ekrana kao po dizajnu
+    } 
+}
