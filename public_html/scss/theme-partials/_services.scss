@@ -30,3 +30,16 @@ $dark-services-bg: $dark-blue;
     }
 }
 
+//Services content
+.service-content{
+    padding: 55px 0;
+    ul{
+        list-style: none;
+        padding-left: 0;
+    }
+}
+@media(min-width:992px){
+    .service-content{
+        padding: 107px 0;
+    }
+}
